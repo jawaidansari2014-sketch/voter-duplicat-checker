@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+pytesseract
+Pillow
+pandas
+rapidfuzz
